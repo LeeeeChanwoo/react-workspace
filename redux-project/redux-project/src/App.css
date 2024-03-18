@@ -1,0 +1,15 @@
+div{
+
+  color: black;
+  padding: 40px;
+  font-family: 고딕;
+  text-align: center;
+}
+
+h1{
+  
+  color: white;
+  background-color: green;
+  padding: 10px;
+  font-family: "Noto Sans KR",sans-serif;
+}
